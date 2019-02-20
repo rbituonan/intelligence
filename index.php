@@ -9,5 +9,6 @@ echo "<h2>Hello World</h2>";
 $name="butch";
 echo $name;
 ?>
+<scrip ttype="text>
 </body>
 </html>
