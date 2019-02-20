@@ -9,6 +9,7 @@ echo "<h2>Hello World</h2>";
 $name="butch";
 echo $name;
 ?>
-<scrip ttype="text>
+<script type="text">
+</script>
 </body>
 </html>
